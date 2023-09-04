@@ -2,7 +2,7 @@
 
 
 ## Utilization of IP
-![]([https://hackmd.io/_uploads/BJkuM-QA2.png](https://github.com/neilyes52/SoCLab/blob/parity_generator/upload_15d00392b35f1757ff576ad89fb05845.png?raw=true))
+![]([https://hackmd.io/_uploads/BJkuM-QA2.png](https://github.com/neilyes52/SoCLab/blob/parity_generator/upload_15d00392b35f1757ff576ad89fb05845.png))
 
 
 ## Utilization of Verilog Design
