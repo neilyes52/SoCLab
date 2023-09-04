@@ -7,5 +7,6 @@
 ## Utilization of Verilog Design
 ![](https://hackmd.io/_uploads/HJ8FnfR6n.png)
 
+If the image don't show properly, please check the link in raw.
 
 
