@@ -1,5 +1,6 @@
 # Parity Generator
 
+
 ## Utilization of IP
 ![](https://hackmd.io/_uploads/BJkuM-QA2.png)
 
